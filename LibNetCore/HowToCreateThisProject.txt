@@ -1,1 +1,12 @@
-﻿
+﻿Create AspNetCoreWeb Api
+change the csproj 
+Richt click solution
+  Unload project
+  Tools 
+    Edit
+      Change <Project Sdk="Microsoft.NET.Sdk.Web"> to <Project Sdk="Microsoft.NET.Sdk">
+  ReLoad
+Richt click solution
+Options
+General
+  Compile Target from Executable to Library

@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspNetCoreWebApi", "AspNetCoreWebApi\AspNetCoreWebApi.csproj", "{AC035AF0-988B-4CF2-9DB3-03E1CD1B6EBE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibNetCore", "LibNetCore\LibNetCore.csproj", "{EA44E385-B30C-4EF7-AB93-6170AEAB6F77}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC035AF0-988B-4CF2-9DB3-03E1CD1B6EBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC035AF0-988B-4CF2-9DB3-03E1CD1B6EBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC035AF0-988B-4CF2-9DB3-03E1CD1B6EBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC035AF0-988B-4CF2-9DB3-03E1CD1B6EBE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA44E385-B30C-4EF7-AB93-6170AEAB6F77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA44E385-B30C-4EF7-AB93-6170AEAB6F77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA44E385-B30C-4EF7-AB93-6170AEAB6F77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA44E385-B30C-4EF7-AB93-6170AEAB6F77}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
