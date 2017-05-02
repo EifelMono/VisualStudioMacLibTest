@@ -10,3 +10,5 @@ Richt click solution
 Options
 General
   Compile Target from Executable to Library
+Remove Startup.cs
+Remove Program.cs

@@ -1,13 +1,13 @@
 ﻿using System.Collections.Generic;
 using Microsoft.AspNetCore.Mvc;
 
-namespace LibNetCore.Controllers
+namespace LibNetStandard.Controllers
 {
     /// <summary>
     /// ASP net core web API controller.
     /// </summary>
     [Route("api/[controller]")]
-    public class LibNetCoreController : Controller
+    public class LibNetStandardController : Controller
     {
         /// <summary>
         /// GET api/values

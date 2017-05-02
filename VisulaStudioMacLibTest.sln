@@ -5,6 +5,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspNetCoreWebApi", "AspNetC
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibNetCore", "LibNetCore\LibNetCore.csproj", "{EA44E385-B30C-4EF7-AB93-6170AEAB6F77}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibNetStandard", "LibNetStandard\LibNetStandard.csproj", "{8FF33AE5-1A4C-4D05-9867-5C79C573861C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -19,5 +21,9 @@ Global
 		{EA44E385-B30C-4EF7-AB93-6170AEAB6F77}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EA44E385-B30C-4EF7-AB93-6170AEAB6F77}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EA44E385-B30C-4EF7-AB93-6170AEAB6F77}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8FF33AE5-1A4C-4D05-9867-5C79C573861C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FF33AE5-1A4C-4D05-9867-5C79C573861C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FF33AE5-1A4C-4D05-9867-5C79C573861C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FF33AE5-1A4C-4D05-9867-5C79C573861C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
